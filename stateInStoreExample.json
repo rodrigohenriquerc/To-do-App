@@ -1,0 +1,25 @@
+{
+    "todos": [
+        {
+            "id": 1,
+            "text": "Minha tarefa",
+            "done": true
+        },
+        {
+            "id": 2,
+            "text": "Minha outra tarefa",
+            "done": false
+        }
+    ],
+    "user": "Fulano",
+    "posts": [
+        "...",
+        "...",
+        "..."
+    ],
+    "news": [
+        "...",
+        "...",
+        "..."
+    ]
+}
